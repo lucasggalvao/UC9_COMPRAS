@@ -1,0 +1,15 @@
+C:\Users\mateus.mbhespana\source\repos\UC9_COMPRAS\UC9_COMPRAS\bin\Debug\net6.0\UC9_COMPRAS.exe
+C:\Users\mateus.mbhespana\source\repos\UC9_COMPRAS\UC9_COMPRAS\bin\Debug\net6.0\UC9_COMPRAS.deps.json
+C:\Users\mateus.mbhespana\source\repos\UC9_COMPRAS\UC9_COMPRAS\bin\Debug\net6.0\UC9_COMPRAS.runtimeconfig.json
+C:\Users\mateus.mbhespana\source\repos\UC9_COMPRAS\UC9_COMPRAS\bin\Debug\net6.0\UC9_COMPRAS.dll
+C:\Users\mateus.mbhespana\source\repos\UC9_COMPRAS\UC9_COMPRAS\bin\Debug\net6.0\ref\UC9_COMPRAS.dll
+C:\Users\mateus.mbhespana\source\repos\UC9_COMPRAS\UC9_COMPRAS\bin\Debug\net6.0\UC9_COMPRAS.pdb
+C:\Users\mateus.mbhespana\source\repos\UC9_COMPRAS\UC9_COMPRAS\obj\Debug\net6.0\UC9_COMPRAS.csproj.AssemblyReference.cache
+C:\Users\mateus.mbhespana\source\repos\UC9_COMPRAS\UC9_COMPRAS\obj\Debug\net6.0\UC9_COMPRAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.mbhespana\source\repos\UC9_COMPRAS\UC9_COMPRAS\obj\Debug\net6.0\UC9_COMPRAS.AssemblyInfoInputs.cache
+C:\Users\mateus.mbhespana\source\repos\UC9_COMPRAS\UC9_COMPRAS\obj\Debug\net6.0\UC9_COMPRAS.AssemblyInfo.cs
+C:\Users\mateus.mbhespana\source\repos\UC9_COMPRAS\UC9_COMPRAS\obj\Debug\net6.0\UC9_COMPRAS.csproj.CoreCompileInputs.cache
+C:\Users\mateus.mbhespana\source\repos\UC9_COMPRAS\UC9_COMPRAS\obj\Debug\net6.0\UC9_COMPRAS.dll
+C:\Users\mateus.mbhespana\source\repos\UC9_COMPRAS\UC9_COMPRAS\obj\Debug\net6.0\ref\UC9_COMPRAS.dll
+C:\Users\mateus.mbhespana\source\repos\UC9_COMPRAS\UC9_COMPRAS\obj\Debug\net6.0\UC9_COMPRAS.pdb
+C:\Users\mateus.mbhespana\source\repos\UC9_COMPRAS\UC9_COMPRAS\obj\Debug\net6.0\UC9_COMPRAS.genruntimeconfig.cache
